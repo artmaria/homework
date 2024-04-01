@@ -2,6 +2,7 @@
   "name": "pre-homeworks",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://artmaria.github.io/maria.github.io",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
