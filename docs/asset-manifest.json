@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/maria.github.io/static/css/main.c95e17fd.css",
+    "main.js": "/maria.github.io/static/js/main.f1ba9acc.js",
+    "static/js/453.e718c90e.chunk.js": "/maria.github.io/static/js/453.e718c90e.chunk.js",
+    "index.html": "/maria.github.io/index.html",
+    "main.c95e17fd.css.map": "/maria.github.io/static/css/main.c95e17fd.css.map",
+    "main.f1ba9acc.js.map": "/maria.github.io/static/js/main.f1ba9acc.js.map",
+    "453.e718c90e.chunk.js.map": "/maria.github.io/static/js/453.e718c90e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c95e17fd.css",
+    "static/js/main.f1ba9acc.js"
+  ]
+}
