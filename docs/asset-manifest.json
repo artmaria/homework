@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/maria.github.io/static/css/main.fb49e295.css",
-    "main.js": "/maria.github.io/static/js/main.d0007c1b.js",
-    "static/js/453.e718c90e.chunk.js": "/maria.github.io/static/js/453.e718c90e.chunk.js",
-    "index.html": "/maria.github.io/index.html",
-    "main.fb49e295.css.map": "/maria.github.io/static/css/main.fb49e295.css.map",
-    "main.d0007c1b.js.map": "/maria.github.io/static/js/main.d0007c1b.js.map",
-    "453.e718c90e.chunk.js.map": "/maria.github.io/static/js/453.e718c90e.chunk.js.map"
+    "main.css": "/homework/static/css/main.fb49e295.css",
+    "main.js": "/homework/static/js/main.621a0024.js",
+    "static/js/453.e718c90e.chunk.js": "/homework/static/js/453.e718c90e.chunk.js",
+    "index.html": "/homework/index.html",
+    "main.fb49e295.css.map": "/homework/static/css/main.fb49e295.css.map",
+    "main.621a0024.js.map": "/homework/static/js/main.621a0024.js.map",
+    "453.e718c90e.chunk.js.map": "/homework/static/js/453.e718c90e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fb49e295.css",
-    "static/js/main.d0007c1b.js"
+    "static/js/main.621a0024.js"
   ]
 }
